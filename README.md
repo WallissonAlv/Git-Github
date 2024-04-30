@@ -21,4 +21,6 @@ Repositório para armazenar resumos sobre Git e Github
 |--------------|--------|
 |$ git status  | Mostra a árvore de trabalho|
 |$ git log     | Mostra o histórico dos nossos commits|
+|$ git restore | Restaura arquivo excluído|
+|$ git reset | (--soft),(--mixed),(--hard)+ código rash |
 |$ clear  | Limpa a tela|
