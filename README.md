@@ -1,4 +1,3 @@
-
 # DIO | Resumos Git e Github
 
 Repositório para armazenar resumos sobre Git e Github
@@ -18,6 +17,8 @@ Repositório para armazenar resumos sobre Git e Github
 
 ## ♟ Sintaxe e suas funcionalidades
 
-| Sintaxe | Função |
-|---------|--------|
-|$ git status| mostra a árvore de trabalho|
+| Sintaxe      | Função |
+|--------------|--------|
+|$ git status  | Mostra a árvore de trabalho|
+|$ git log     | Mostra o histórico dos nossos commits|
+|$ clear  | Limpa a tela|
