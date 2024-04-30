@@ -12,7 +12,8 @@ Repositório para armazenar resumos sobre Git e Github
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | {resumo}
+| Aula 01 | {resumo}
+| Aula 02 | {resumo}
 () |
 
 ## ♟ Sintaxe e suas funcionalidades
