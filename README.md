@@ -15,3 +15,9 @@ Repositório para armazenar resumos sobre Git e Github
 |-------|---------|
 | Gravando Alterações no Repositório Local | {resumo}
 () |
+
+## ♟ Sintaxe e suas funcionalidades
+
+| Sintaxe | Função |
+|---------|--------|
+|$ git status| mostra a árvore de trabalho|
